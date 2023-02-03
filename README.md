@@ -25,7 +25,7 @@ Make sure Python is installed on your MacOs
 This project is used to validate the UG and PG marks to he/she pass or fail in the subject.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/jeeva-233/mark-validation-python/blob/main/first.png)
 
 ## Condition
 
@@ -34,6 +34,7 @@ This only supports the number without special characters and white space.If you 
 Number=1234567890
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ## Not support
 
