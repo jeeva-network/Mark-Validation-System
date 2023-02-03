@@ -1,1 +1,86 @@
-# mark-validation-python
+# Mark Validation Project
+
+
+
+## Need to download 
+
+ - [Download-Python](https://www.python.org/downloads/)
+
+ ## Type into the cmd
+
+Make sure Python is installed on your Windows and Linux
+
+```bash
+  python --version
+```
+
+Make sure Python is installed on your MacOs
+
+```bash
+  python -version
+```
+
+ ## Introduction
+ 
+This project is used to validate the UG and PG marks to he/she pass or fail in the subject.
+
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Condition
+
+This only supports the number without special characters and white space.If you give only a number in the UG/PG input field you get the result.
+
+Number=1234567890
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Not support
+
+Specialcharacter=!@#$%^&*()-_+=:;"'<>,.?/~`{}][\ ...etc
+
+If either one of the input fields gives a string or white space it will show this warning message to recheck or enter a valid mark in the particular UG/PG input field.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## or
+
+If either one of the input fields or all the input fields you doesn't give a value this will show a warning message to fill out the all-input fields.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Condition Value
+
+### UG
+
+UG-CIA=15-50\
+UG-EOS=20-50\
+UG-Total=40
+
+If either one of the input fields or both input fields in UG gives less than the minimum condition value you fail to be in the particular subject or both. the previous two conditions are satisfied, but if you are not satisfied with the total condition you will get a fail message.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+If either one of the input fields or both input fields in UG gives more than the maximum condition value you will get the warning message to enter a valid mark in the particular subject or both subjects.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+### PG
+
+PG-CIA=20-50\
+PG-EOS=25-50\
+PG-Total=50
+
+If either one of the input fields or both input fields in PG gives less than the minimum condition value you fail to be in the particular subject or both. the previous two conditions are satisfied, but if you are not satisfied with the total condition you will get a fail message.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+If either one of the input fields or both input fields in PG gives more than the maximum condition value you will get the warning message to enter a valid mark in the particular subject or both subjects.
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## 🚀 About Me
+
+I am a passionate learner of Python and Web Development. I have honed my skills through various online courses and personal projects. I am well-versed in Python programming concepts and have a strong understanding of front-end technologies such as HTML, CSS, and JavaScript. I am confident in my ability to create responsive and visually appealing web pages using these technologies. My goal is to continue to grow and develop my skills in the tech industry and contribute to the development of innovative solutions.
+
