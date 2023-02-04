@@ -8,7 +8,7 @@
 
  ## Type into the cmd
 
-Make sure Python is installed on your Windows and Linux
+Make sure Python is installed on your Windows or Linux
 
 ```bash
   python --version
