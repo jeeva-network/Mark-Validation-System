@@ -109,9 +109,9 @@ def ug_validation():
             else:
                 messagebox.showwarning("Warning", "Please Enter Your Valid UG Mark")
         else:
-            messagebox.showwarning("Warning", "Please Enter Only Number in the UG Entry Field and Without Whitespace")
+            messagebox.showwarning("Warning", "Please Enter Only Number in the UG Input Field and Without Whitespace")
     else:
-        messagebox.showwarning("Warning", "Please Fill Out the all UG Entry Field")
+        messagebox.showwarning("Warning", "Please Fill Out the all UG Input Field")
 
 
 # PG Validation
@@ -158,9 +158,9 @@ def pg_validation():
             else:
                 messagebox.showwarning("Warning", "Please Enter Your Valid PG Mark")
         else:
-            messagebox.showwarning("Warning", "Please Enter Only Number in the PG Entry Field and Without Whitespace")
+            messagebox.showwarning("Warning", "Please Enter Only Number in the PG Input Field and Without Whitespace")
     else:
-        messagebox.showwarning("Warning", "Please Fill Out the all PG Entry Field")
+        messagebox.showwarning("Warning", "Please Fill Out the all PG Input Field")
 
 
 # Create Frames
