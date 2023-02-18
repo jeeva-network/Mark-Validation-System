@@ -38,12 +38,6 @@ label_font = ("sans", 20)
 font_1 = ("sans", 15)
 
 
-# Close the Window
-
-def close():
-    window.quit()
-
-
 # Clear UG Entry Field
 
 def clear_1():
