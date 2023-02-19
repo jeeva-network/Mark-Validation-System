@@ -33,7 +33,7 @@ window.title("Student Mark Validation")
 
 label_font = ("sans", 20)
 
-# Button and Entry Font Style
+# Button and Entry Field Font Style
 
 font_1 = ("sans", 15)
 
