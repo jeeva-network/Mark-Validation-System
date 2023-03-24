@@ -22,7 +22,7 @@ Make sure Python is installed on your MacOs
 
  ## Introduction
  
-This project is used to validate the UG and PG marks to he/she success or failure in the subject.
+This project is used to validate the UG and PG marks to pass or fail in the subject.
 
 
 ![App Screenshot](https://github.com/jeeva-233/mark-validation-python/blob/main/first.png)
