@@ -83,5 +83,5 @@ If either one of the input fields or both input fields in PG gives more than the
 
 ## 🚀 About Me
 
-I am a passionate learner of Python and Web Development. I have honed my skills through various online courses and personal projects. I am well-versed in Python programming concepts and have a strong understanding of front-end technologies such as HTML, CSS, and JavaScript. I am confident in my ability to create responsive and visually appealing web pages using these technologies. My goal is to continue to grow and develop my skills in the tech industry and contribute to the development of innovative solutions.
+I am a passionate learner of Python and Web Development. I have honed my skills through various online courses and personal projects. I am well-versed in Python programming concepts and have a strong understanding of front-end technologies such as HTML, and CSS. I am confident in my ability to create responsive and visually appealing web pages using these technologies. My goal is to continue to grow and develop my skills in the tech industry and contribute to the development of innovative solutions.
 
