@@ -20,7 +20,8 @@ Make sure Python is installed on your MacOs
   python -version
 ```
 
- ## Introduction
+ 
+ ## About the Project
  
 This project is used to validate the student's passing and failing mark in the subject.
 
